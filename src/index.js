@@ -94,7 +94,7 @@ function moreDetails(beer){
     <p>Tips for the Brewer: ${beer.brewers_tips}</p>
     <ul>Food pairing:`;
     for (pairing of beer.food_pairing){
-      moreDetailsBox.innerHTML += `<li>${pairing}</li>`
+      moreDetailsBox.innerHTML += `<li><small>${pairing}</small></li>`
     }
     moreDetailsBox.innerHTML += `</ul></small><br><br>`
   }
