@@ -50,7 +50,7 @@
       "name": "Avery Brown Dredge",
       "tagline": "Bloggers' Imperial Pilsner.",
       "first_brewed": "02/2011",
-      "description": "wow so good!",
+      "description": "Yeah, boi\nThis shit'll get ya drunk.",
       "image_url": "https://images.punkapi.com/v2/5.png",
       "food_pairing": [
         "Vietnamese squid salad",
@@ -58,21 +58,6 @@
         "Strawberry and rhubarb pie"
       ],
       "brewers_tips": "Make sure you have a big enough yeast starter to ferment through the OG and lager successfully.",
-      "contributed_by": "Sam Mason <samjbmason>"
-    },
-    {
-      "id": 6,
-      "name": "Electric India",
-      "tagline": "Vibrant Hoppy Saison.",
-      "first_brewed": "05/2013",
-      "description": "wow so good!",
-      "image_url": "https://images.punkapi.com/v2/6.png",
-      "food_pairing": [
-        "Mussels with a garlic and herb sauce",
-        "Crab melt sandwich",
-        "Shortbread cookies"
-      ],
-      "brewers_tips": "Source some really good heather honey to get the right spicy esters in the beer.",
       "contributed_by": "Sam Mason <samjbmason>"
     },
     {
@@ -95,7 +80,7 @@
       "name": "AB:07",
       "tagline": "Whisky Cask-Aged Scotch Ale.",
       "first_brewed": "03/2010",
-      "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
+      "description": "This will put you in a cask-et",
       "image_url": "https://images.punkapi.com/v2/9.png",
       "food_pairing": [
         "Kedgeree",
@@ -110,7 +95,7 @@
       "name": "Bramling X",
       "tagline": "Single Hop IPA Series - 2011.",
       "first_brewed": "01/2011",
-      "description": "Good old Bramling Cross is elegant, refined, assured, (boring) and understated. Understated that is unless you hop the living daylights out of a beer with it. This is Bramling Cross re-invented and re-imagined, and shows just what can be done with English hops if you use enough of them. Poor Bramling Cross normally gets lost in a woeful stream of conformist brown ales made by sleepy cask ale brewers. But not anymore. This beer shows that British hops do have some soul, and is a fruity riot of blackberries, pears, and plums. Reminds me of the bramble, apple and ginger jam my grandmother used to make.",
+      "description": "This stuff sucks.\nTastes like fermented buttholes.",
       "image_url": "https://images.punkapi.com/v2/10.png",
       "food_pairing": [
         "Warm blackberry pie",
@@ -118,36 +103,6 @@
         "Aromatic korma curry with lemon and garlic naan"
       ],
       "brewers_tips": "Getting good Bramling Cross is key. Most English hops are in leaf form (not pelletised), so getting fresh hops close to harvest (September) will give this beer the right amount of dark berry intensity.",
-      "contributed_by": "Sam Mason <samjbmason>"
-    },
-    {
-      "id": 10,
-      "name": "Misspent Youth",
-      "tagline": "Milk & Honey Scotch Ale.",
-      "first_brewed": "04/2013",
-      "description": "The brainchild of our small batch brewer, George Woods. A dangerously drinkable milk sugar- infused Scotch Ale.",
-      "image_url": "https://images.punkapi.com/v2/keg.png",
-      "food_pairing": [
-        "Roasted garlic and chilli infused camembert cheese",
-        "Korean style chicken wings",
-        "Chocolate milk shake"
-      ],
-      "brewers_tips": "Lots of malt in this one. Mash-in in stages, and spread the pale ale malt throughout the mash to provide stability. If the mash starts to sink, stop, wait a few minutes while mixing, then start again.",
-      "contributed_by": "Sam Mason <samjbmason>"
-    },
-    {
-      "id": 11,
-      "name": "Arcade Nation",
-      "tagline": "Seasonal Black IPA.",
-      "first_brewed": "12/2015",
-      "description": "Running the knife-edge between an India Pale Ale and a Stout, this particular style is one we truly love. Black IPAs are a great showcase for the skill of our brew team, balancing so many complex and twisting flavours in the same moment. The citrus, mango and pine from the hops – three of our all-time favourites – play off against the roasty dryness from the malt bill at each and every turn.",
-      "image_url": "https://images.punkapi.com/v2/12.png",
-      "food_pairing": [
-        "King prawn kebabs",
-        "Halibut with a mango and tomato salad",
-        "Mint chocloate ice cream"
-      ],
-      "brewers_tips": "Be as accurate as possible when weighing out your malts to ensure you strike the right balance.",
       "contributed_by": "Sam Mason <samjbmason>"
     },
     {
